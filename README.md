@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Mary Bhavana Gollapalli
 ### Full Stack Web Developer <hr>
 
-- 
+
 - 🌱 I’m currently learning Full Stack Web Development.
 - 👯 I'm open to collaborating on React Apps, Projects to develop website.
 - 📫 How to reach me:bhavanagollapalli123@gmail.com
