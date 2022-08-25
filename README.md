@@ -1,4 +1,4 @@
-### Hi 👋 I'm Mary Bhavana Gollapalli <hr>
+### Hi 👋 I'm Mary Bhavana Gollapalli
 ### Full Stack Web Developer <hr>
 
 - 
