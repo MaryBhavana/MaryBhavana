@@ -1,5 +1,5 @@
-### <h1>Hi 👋 I'm Mary Bhavana Gollapalli<h1>
-### Full Stack Web Developer <hr>
+ <h1>Hi 👋 I'm Mary Bhavana Gollapalli</h1><hr>
+  <h3> Full Stack Web Developer</h3> <hr>
 
 
 - 🌱 I’m currently learning Full Stack Web Development.
