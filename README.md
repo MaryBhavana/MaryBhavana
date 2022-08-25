@@ -1,4 +1,4 @@
- <h1>Hi 👋 I'm Mary Bhavana Gollapalli</h1><hr>
+ <h1>Hi 👋 I'm Mary Bhavana Gollapalli</h1>
   <h3> Full Stack Web Developer</h3> <hr>
 
 
