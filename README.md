@@ -6,6 +6,7 @@
 - 👯 I'm open to collaborating on React Apps, Projects to develop website.
 - 📫 How to reach me:bhavanagollapalli123@gmail.com
 - ⚡ I am interested in Singing .
+- Currently working as a Software Developer in RBH Solutions Private ltd, Patiala.
 
 ### Skills
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="35px" height="35px"></image>
